@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "io.github.viaboxxsystems.twa",
+                   "sha256_cert_fingerprints": ["FE:3B:EB:8A:28:21:16:D9:DC:6A:DB:24:A3:86:8F:6A:48:08:4C:E4:FE:98:78:40:DF:D8:0A:9D:F4:23:B0:E4"] }
+    }]
